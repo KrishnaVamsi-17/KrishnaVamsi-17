@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Krishna Vamsi</h1>
 <h3 align="center">Competitive Programmer and Aspiring to be a MERN stack developer</h3>
 
-- 🔭 I’m currently working on **React js**
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 👯 I’m looking to collaborate on **Responsive design**
-
+- 🧑‍💻 I love to code and work more on buiding my problem solving skills.
+- 🌱 I’m consistent every day
+- 🚀 I'm currently learning how to build interactive websites
+- 🔭 I’m currently working on **MERN stack**
 - 📫 How to reach me **krishnavamsi1730@gmail.com**
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
