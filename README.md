@@ -6,13 +6,4 @@
 - 🚀 I'm currently learning how to build interactive websites
 - 🔭 I’m currently working on **MERN stack**
 - 📫 How to reach me **krishnavamsi1730@gmail.com**
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnavamsi-17&show_icons=true&locale=en" alt="krishnavamsi-17" /></p>
