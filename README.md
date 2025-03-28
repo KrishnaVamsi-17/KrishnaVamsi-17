@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Vamsi</h1>
-<h3 align="center">Competitive Programmer and Aspiring to be a MERN stack developer</h3>
+<h3 align="center">Competitive Programmer and .NET Developer</h3>
 
 - 🧑‍💻 I love to code and work more on buiding my problem solving skills.
 - 🌱 I’m consistent every day
